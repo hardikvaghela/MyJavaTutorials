@@ -9,6 +9,7 @@ public static void main(String[] args)
 	for(int i:a)
 	{
 		System.out.println("Number is" + i);
+		System.out.println("Number is" + i);
 	}
 	
 	
