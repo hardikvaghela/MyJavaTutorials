@@ -23,6 +23,7 @@ public class ExampleTwoDimArray {
 				System.out.print(dim[i][j] + " ");
 			}
 			System.out.println();
+			System.out.println();
 		}
 		
 
